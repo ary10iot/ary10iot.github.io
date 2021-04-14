@@ -26,7 +26,7 @@ class MiNav extends HTMLElement {
       <span class="material-icons">
      info
       </span>
-        Ayuda
+        información
       </a>`;
   }
 }
