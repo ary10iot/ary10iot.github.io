@@ -1,1 +1,25 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
 
+.contenido {
+  display: inline-block;
+  text-align: start;
+  
+}
+
+meter,
+input[type=range],
+output {
+  display: block;
+}
+
+mi-footer {
+  display: block;
+  margin: 1rem 0;
+  font-size: small;
+}
