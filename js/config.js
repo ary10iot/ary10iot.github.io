@@ -8,7 +8,7 @@ class MiNav extends HTMLElement {
         <span class="material-icons">
       home
       </span>
-        Control IoT
+        Inicio
       </a>
   <a href="historial.html">
       <span class="material-icons">
@@ -20,13 +20,13 @@ class MiNav extends HTMLElement {
        <span class="material-icons">
         ad_units
       </span>
-        Dispositivo simulado
+        Dispositivo 
       </a>
 <a href="info.html">
       <span class="material-icons">
      info
       </span>
-        información
+        Información
       </a>`;
   }
 }
