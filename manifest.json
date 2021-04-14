@@ -1,19 +1,25 @@
 {
-    "name": "Control Iot",
-    "short_name": "Control Iot",
-    "description": "Bienvenidos a Control Iot, este es un proyecto para la materia DDM  :)",
-    "background_color": "#B2B2B",
-    "theme_color": "B20500",
-    "orientation": "portrait",
-    "display": "standalone",
-    "start_url": "./?utm_source=web_app_manifest",
-    "scope": "./",
-    "lang": "es-MX",
-    "icons": [
-      {
-        "src": "./img/jugadores-de-futbol.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
-  }
+  "short_name": "ary10iot",
+  "name": "PWA IOT",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#AA86A3",
+  "background_color": "#baa9af",
+  "icons": [
+    {
+      "src": "img/icono2048.png",
+      "sizes": "2048x2048",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icono1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icono2256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
