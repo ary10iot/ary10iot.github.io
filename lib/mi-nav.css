@@ -12,6 +12,7 @@ mi-nav {
   align-items: stretch;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 mi-nav a {
